@@ -1,22 +1,3 @@
-// import React from 'react';
-
-// const ViewProductButton = () => {
-//   const buttonText = 'View Product';
-
-//   const buttonStyle = {
-//     padding: '8px 16px',
-//     backgroundColor: '#007bff',
-//     border: 'none',
-//     color: '#fff',
-//     borderRadius: '4px',
-//     cursor: 'pointer'
-//   };
-
-//   return <button style={buttonStyle}>{buttonText}</button>;
-// };
-
-// export default ViewProductButton;
-
 import React from "react";
 
 const ViewProductButton = () => {
